@@ -5,7 +5,7 @@ import Room from "./Room.js";
 function App() {
   return (
     <div>
-      <Room />
+      <Room class="( className=isLit)" />
     </div>
   );
 }
